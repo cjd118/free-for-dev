@@ -90,7 +90,8 @@ Table of Contents
   * [sourcetalk.net](http://sourcetalk.net/) — Code discussion tool, free for open code talks
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
-  * [doodle.com](https://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting two times faster
+  * [doodle.com](https://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting two times ly
+  er
   * [sendtoinc.com](https://sendtoinc.com/) — Share links, notes, files and have discussions. Free for 3 and 100 MB
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
@@ -306,7 +307,6 @@ Table of Contents
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
   * [rawgit.com](https://rawgit.com/) — Free limited traffic, serves raw files directly from GitHub with proper Content-Type headers
   * [incapsula.com](https://www.incapsula.com/) — Free CDN and DDoS protection
-  * [fastly.com](https://www.fastly.com/) — Free CDN, all features until USD 50/month is reached, enough for most, then pay or suspended
   * [Web Support Revolution](https://w.tools/) — Free CDN, backup, firewall, antivirus and monitoring.
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
